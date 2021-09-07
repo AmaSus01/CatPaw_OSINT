@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ```console
 python3 instagram.py -u <your target's account name> -l 
 ```
-![Screenshot from 2021-09-07 18-34-43](https://user-images.githubusercontent.com/57565730/132382243-bfa88541-a146-4e53-bac3-9ade68c7e65b.png)
+![InkedScreenshot from 2021-09-07 18-34-43_LI](https://user-images.githubusercontent.com/57565730/132383324-8afb4304-b29c-4ab7-925f-a32eb2eb4752.jpg)
 ![Screenshot from 2021-09-07 19-17-15](https://user-images.githubusercontent.com/57565730/132382287-3f8754b1-acc5-4339-bff2-311acce61f66.png)
 3. If you have some troubles just write:
  ```console
