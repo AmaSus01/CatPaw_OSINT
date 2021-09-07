@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 > 
 > -u, --user - add here target instagram account
 > 
-> -l --loaction - just write after -u key if you want to see loaction
+> -l, --loaction - just write after -u key if you want to see loaction
  
 ```console
 python3 instagram.py -u katerina.sahara -l 
