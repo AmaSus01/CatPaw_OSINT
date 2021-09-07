@@ -15,9 +15,9 @@ pip3 install -r requirements.txt
 2. How to use:
 > At first you can use 2 types of keys
 > 
-> -u, --user - add here target instagram account
+> * -u, --user - add here target instagram account
 > 
-> -l, --loaction - just write after -u key if you want to see loaction
+> * -l, --location - just write after -u key if you want to see location
  
 ```console
 python3 instagram.py -u katerina.sahara -l 
