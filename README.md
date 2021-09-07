@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 > * -l, --location - just write after -u key if you want to see location
  
 ```console
-python3 instagram.py -u katerina.sahara -l 
+python3 instagram.py -u <your target's account name> -l 
 ```
 ![Screenshot from 2021-09-07 18-34-43](https://user-images.githubusercontent.com/57565730/132382243-bfa88541-a146-4e53-bac3-9ade68c7e65b.png)
 ![Screenshot from 2021-09-07 19-17-15](https://user-images.githubusercontent.com/57565730/132382287-3f8754b1-acc5-4339-bff2-311acce61f66.png)
