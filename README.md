@@ -4,7 +4,7 @@ This project is designed to identify the approximate place of life of a certain 
 # Download
 
 ```console
-git clone https://github.com/AmaSus01/CatPaw_OSINT.git
+https://github.com/sakyra01/CatPaw_OSINT.git
 
 ```
 
